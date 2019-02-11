@@ -1,0 +1,791 @@
+
+body{
+	width: 1200px;
+	margin: 0 auto;
+
+}
+.container{
+	width: 1200px;
+	margin:0 auto;
+}
+header{
+	margin-top: 10px;
+}
+ul{
+	list-style-type: none;
+	margin: 0 auto;
+	margin-left: 193px;
+	position: relative;
+	top: -22px;
+	left: 55%;
+}
+li{
+	display: inline-block;
+
+}
+.logo{
+	position: relative;
+	top: 1px;
+	left: 43px;
+}
+.col-4 img{
+	width: 140px;
+	height: 28px;
+}
+li a{
+	text-decoration: none;
+	color: #abacae;
+	font-family: verdana;
+	font-size: 14px;
+	padding-left: 18px;
+	text-align: center;
+	font-family: verdana;
+	font-size: 14px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 400; 
+	
+}
+li a:hover{
+	color: #f63854;
+	text-decoration: initial;
+	
+
+}
+
+#download{
+	width: 1280px;
+	background-image: url(http://preview.uideck.com/items/fusion/assets/img/hero-area.svg);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+}
+.setir{
+	width: 100%;
+	height: 600px;
+}
+.col-6{
+	padding-left: 10px;
+}
+.slider{
+	position: relative;
+	top: 81px;
+	left: 34px;
+}
+.setir1{
+ font-family: verdana;
+ font-weight: 400;
+ font-size: 25px;
+}
+.setir2{
+	color: #abacae;
+	font-family: verdana;
+}
+.setir3{
+	width: 100%;
+	display: inline-block;
+}
+.downNow{
+	width: 190px;
+	height: 47px;
+	border: 1px solid #f63854;
+	background: #f63854;
+	color: white;
+	font-family: verdana;
+	font-size: 15px;
+	border-radius: 40px;
+	text-align: center;
+}
+.downNow:hover{
+	background: white;
+	color: #f63854;
+}
+.LearnMore{
+	width: 190px;
+	height: 47px;
+	border: 1px solid #f63854;
+	background: white;
+	color: #f63854;
+	font-family: verdana;
+	font-size: 15px;
+	border-radius: 40px;
+	text-align: center;
+	position: absolute;
+	top: 196px;
+	left: 211px;
+	
+}
+.LearnMore:hover {
+	background: #f63854;
+	color: white;
+}
+.col-6 img{
+	width: 445px;
+	height: 326px;
+	position: relative;
+	top: -117px;
+	left: 725px;
+}
+.ourService{
+	width: 1200px;
+	margin:0 auto;
+	height: 500px;
+}
+.basliq{
+	color: black;
+	text-align: center;
+}
+.basliq {
+	margin-top: 85px;
+	font-family: verdana;
+	font-size: 34px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 400; 
+}
+.row1{
+  margin-top: 70px;
+  padding-top: 20px;
+}
+.sutun{
+	width: 350px;
+	height: 250px;
+	display: inline-block;
+	padding-left: 25px;
+}
+.icon1{
+	width: 57px;
+	height: 59px;
+	border: 1px solid #f63854;
+	border-radius: 100%;
+	color: #f63854;
+	margin-left: 143px;
+}
+.icon1 i{
+   text-align: center;
+   font-size: 30px;
+   padding: 15px;
+   
+}
+.icon1:hover{
+	background: #f63854;
+	color: white;
+	border: 1px solid #f63854;
+	border-radius: 100%;
+}
+.sutunSetir2 h1{
+	font-family: verdana;
+	font-size: 15px;
+	text-align: center;
+	color: black;
+}
+.sutunSetir2 a{
+    text-decoration: none;
+}
+.sutunSetir2 h1:hover{
+	color:red;
+}
+.sutunSetir2{
+	margin-top: 50px;
+}
+.sutunSetir3{
+	color: #abacae;
+	margin-top: 20px;
+}
+.sutun:hover{
+  border: 1px solid white;
+  box-shadow: 5px 10px 18px #888888;
+}
+.icon2{
+	width: 29px;
+	height: 30px;
+	border: 1px solid #f63854;
+	border-radius: 100%;
+	color: #f63854;
+	margin-left: 143px;
+	
+}
+.icon2{
+   text-align: center;
+   font-size: 30px;
+   padding: 15px;
+}
+.icon2:hover{
+	background: #f63854;
+	color: white;
+	border: 1px solid #f63854;
+	border-radius: 100%;
+}
+#manage{
+	height: 500px;
+	display: inline-block;
+	margin-top: 70px;
+	
+}
+.homeManage{
+	display: inline-block;
+}
+.col6Setir1 p{
+	color: #abacae;
+	font-family: verdana;
+
+}
+.col6Setir1 h1{
+	font-family: verdana;
+	font-size: 30px;
+	color: black;
+}
+.photo{
+	width: 600px;
+	height: 520px;
+	background-repeat: no-repeat;
+	background-position: top right;
+	position: relative;
+	top: -380px;
+	left: 570px;
+	background-image: url(http://preview.uideck.com/items/fusion/assets/img/about/img-1.png);
+}
+.col6Setir2{
+	width: 190px;
+	height: 47px;
+	border: 1px solid #f63854;
+	background: #f63854;
+	color: white;
+	font-family: verdana;
+	font-size: 15px;
+	border-radius: 40px;
+	text-align: center;
+	margin-top: 40px;	
+}
+.col6Setir2:hover {
+	background: white;
+	color: #f63854;
+}
+.featuresHeader {
+	margin-top: 95px;
+	font-family: verdana;
+	font-size: 34px; 
+	font-style: normal; 
+	font-variant: normal; 
+	font-weight: 400; 
+	text-align: center;
+}
+.sutunSetirFeatures{
+	width: 1200px;
+	height: 530px;
+	display: inline-block;
+}
+.Featuressut1{
+	width: 350px;
+	height: 150px;
+	position: relative;
+	padding-top: 10px;
+}
+.textFeatures{
+	color: #abacae;
+	padding-left: 5px;
+	font-family: verdana;
+	width: 250px;
+	text-align: right;
+}
+.textFeatures h1{
+	color: black;
+	font-size: 17px;
+}
+.iconFeatures{
+	position: absolute;
+	top: 34px;
+	left: 285px;
+	color: #f63854;
+	font-size: 38px;
+}
+.Featuressut1:hover{
+    border: 1px solid white;
+    box-shadow: 5px 10px 18px #888888;
+}
+.textFeatures a{
+	text-decoration: none;
+}
+.textFeatures h1:hover{
+	color: red;
+}
+.sutunFeatures1 img{
+	width: 350px;
+	height: 390px;
+}
+.row2{
+	position: relative;
+}
+.sutunFeatures3{
+	position: absolute;
+	top: 0px;
+	left: 833px;
+}
+.sutunFeatures1{
+	position: absolute;
+	top: 33px;
+	left: 425px;
+}
+.iconFeatures1{
+	position: absolute;
+	top: 34px;
+	left: 5px;
+	color: #f63854;
+	font-size: 38px;'
+    
+}
+.textFeatures1{
+	color: #abacae;
+	padding-left: 5px;
+	font-family: verdana;
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	top: 0px;
+	left: 70px;
+}
+.textFeatures1 h1{
+	color: black;
+	font-size: 17px;
+}
+.textFeatures1 a{
+	text-decoration: none;
+}
+.textFeatures1 h1:hover{
+	color: red;
+}
+.servisler{
+	padding-top: 70px;
+}
+.ourteam{
+	width:1200px;
+	height: 230px;
+}
+.solteam{
+	width: 500px;
+	height: 200px;
+	display: inline-block;
+	position: relative;
+}
+.solteam:hover{
+    border: 1px solid white;
+    box-shadow: 5px 10px 18px #888888;
+}
+.sagteam{
+	display: inline-block;
+	width: 500px;
+	height: 200px;
+	position: relative;
+	margin-left: 30px;
+}
+.shekil img{
+	width: 200px;
+	height: 200px;
+}
+.shekilText a{
+	text-decoration: none;
+	}
+.shekilText h1{
+	font-family: verdana;
+	font-size: 15px;
+	color: black;
+}
+.shekilText h1:hover{
+	color: red;
+}
+.shekilText{
+	width: 250px;
+	height: 200px;
+	display: inline-block;
+	color: #abacae;
+	position: absolute;
+	top: 4px;
+	left: 229px;
+}
+.shekil{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+}
+.fb{
+	color: blue;
+	display: inline-block;
+}
+.tvitter{
+	color: lightblue;
+	display: inline-block;
+	padding-left: 5px;
+}
+.instagram{
+	color:  #f63854;
+	display: inline-block;
+	padding-left: 5px;
+}
+.socialteam{
+	position: absolute;
+	top: 170px;
+	left: 229px;
+	padding-left: 5px;
+}
+.shekilText1 a{
+	text-decoration: none;
+	}
+.shekilText1 h1{
+	font-family: verdana;
+	font-size: 15px;
+	color: black;
+}
+.shekilText1 h1:hover{
+	color: red;
+}
+.shekilText1{
+	width: 250px;
+	height: 200px;
+	display: inline-block;
+	color: #abacae;
+	position: absolute;
+	top: 4px;
+	left: 270px;
+}
+.socialteam1{
+	position: absolute;
+	top: 170px;
+	left: 273px;
+	padding-left: 5px;
+}
+.sagteam:hover{
+    border: 1px solid white;
+    box-shadow: 5px 10px 18px #888888;
+}
+.pricingCol{
+	width: 350px;
+	height: 340px;
+	display: inline-block;
+	position: relative;
+	padding-top: 90px;
+	padding-left: 20px;
+}
+.pricon{
+	color: #f63854;
+	font-size: 30px;
+	background: #ebedef;
+	width: 80px;
+	height: 80px;
+	border-bottom-width: 1px solid #ebedef;
+	border-radius: 50%;
+	text-align: center;
+	position: absolute;
+	top: -15px;
+	left: 150px;
+	
+}
+.pricon i{
+    position: absolute;
+	top: 21px;
+	left: 26px;
+	text-align: center;
+}
+.pricon:hover{
+	background:#f63854;
+	color: white;
+}
+
+.pritext{
+	color: #abacae;
+	text-align: center;
+
+}
+.pritext h2{
+	color: black;
+}
+.pul{
+	padding-top: 10px;
+	color: #f63854;
+	font-family: calibri;
+	font-size: 30px;
+}
+.pribuy{
+   width: 133px;
+   height: 49px;
+   border: 1px solid #f63854;
+   background: #f63854;
+   color: white;
+   text-align: center;
+   font-size: 15px;
+   font-family: verdana;
+   border-radius: 100px;
+   position: absolute;
+   top: 351px;
+   left: 125px;
+}
+.pribuy:hover{
+	background: white;
+	color:  #f63854;
+}
+.pricingCol:hover{
+	border: 1px solid white;
+    box-shadow: 5px 10px 18px #888888;
+}
+.containerTest{
+	margin-top: 50px;
+	width: 1500px;
+	height:500px;
+	background:#f63854;
+	position: relative;
+	top: 1px;
+	left: -75px;
+
+}
+.testCol{
+	width: 360px;
+	height: 361px;
+	background:white;
+	margin-top: 50px;
+	margin-left: 120px;
+	text-align: center;
+	border-radius: 4px;
+	color: #abacae;
+	display: inline-block;
+}
+.testiRow1{
+	padding-top: 10px;
+}
+.testColPhoto img{
+	border:1px solid white;
+	border-radius: 50%;
+	margin-top: 20px;
+}
+.testColText h1{
+    font-family: verdana;
+    font-size: 17px;
+    padding-top: 20px;
+    color: black;
+
+}
+.testColText h2{
+    font-family: verdana;
+    font-size: 13px;
+    color: black;
+}
+.testColRaiting{
+	padding-top: 40px;
+	color: #f63854;
+}
+.testCol1{
+	width: 360px;
+	height: 361px;
+	background:white;
+	margin-top: 50px;
+	text-align: center;
+	border-radius: 4px;
+	color: #abacae;
+	display: inline-block;
+	margin-left: 20px;
+}
+.yumru{
+	width: 10px;
+	height: 10px;
+	border: 1px solid white;
+	background: white;
+	border-radius: 50px;
+	display: inline-block;
+	margin-top: 40px;
+}
+.slidertipi{
+	text-align: center;
+}
+.yumru:hover{
+	background: #f63854;
+}
+.row2text{
+	width: 600px;
+	height: 200px;
+	display: inline-block;
+	color: #abacae;
+}
+.row2text h1{
+	color: black;
+	font-size:30px;
+	font-family: verdana;
+}
+.registernow{
+	width: 200px;
+	height: 50px;
+	display: inline-block;
+	border: 1px solid #f63854;
+	border-radius: 100px;
+	background: #f63854;
+	color: white;
+	font-family: verdana;
+	font-size: 18px;
+	text-align: center;
+	position: absolute;
+	top: 56px;
+	left: 969px;
+}
+.registernow p{
+	margin-top: 14px;
+}
+.testiRow2{
+	position: relative;
+}
+.contactUs{
+	width: 1200px;
+	height: 600px;
+}
+.contactLeft{
+	width: 700px;
+	height: 400px;
+	display: inline-block;
+}
+.contactRight{
+	width: 400px;
+	height: 280px;
+	display: inline-block;
+	position: relative;
+
+}
+#fname{
+	width: 300px;
+	height: 30px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+#fname{
+	width: 300px;
+	height: 30px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+#email{
+	width: 300px;
+	height: 30px;
+	border-radius: 5px;
+	padding-left: 5px;
+	margin-left: 20px;
+}
+#subject{
+    width: 632px;
+	height: 30px;
+	border-radius: 5px;
+	padding-left: 5px;
+	margin-top: 30px;
+}
+#textarea{
+	width: 632px;
+	height: 150px;
+	border-radius: 5px;
+	padding-left: 5px;
+	margin-top: 30px;
+}
+#submit{
+	width:160px;
+	height: 50px;
+	border:1px solid #f63854;
+	border-radius: 100px;
+	background:#f63854;
+	color: white;
+	font-family: verdana;
+	font-size:12px;
+	margin-top: 20px;
+}
+#submit:hover{
+	background: white;
+	color: #f63854;
+}
+.xerite{
+	position: absolute;
+	top: -64px;
+	left: 1px;
+}
+.sonluq{
+	width: 1200px;
+	height: 300px;
+
+}
+.sonluqrow{
+	color: #abacae;
+}
+.sonLogo{
+	width: 250px;
+	height: 300px;
+	display: inline-block;
+}
+.products{
+	width: 250px;
+	height: 300px;
+	display: inline-block;
+	padding-left: 40px;
+}
+.resources{
+	width: 250px;
+	height: 300px;
+	display: inline-block;
+}
+.contact{
+	width: 250px;
+	height: 300px;
+	display: inline-block;
+}
+.logsocial{
+	color: black;
+	padding-top: 20px;
+	
+}
+.logtext{
+	padding-top: 10px;
+	font-family: verdana;
+	font-size:15px;
+}
+.products h2{
+    font-family: verdana;
+    color: black;
+}
+.products{
+	margin-left: 5px;
+}
+.products a{
+	text-decoration: none;
+	color: #abacae;
+}
+.products a:hover{
+	color: #f63854;
+}
+.resources h2{
+	font-family: verdana;
+    color: black;
+}
+.resources a{
+	text-decoration: none;
+	color: #abacae;
+}
+.resources a:hover{
+	color: #f63854;
+}
+.contact h2{
+	font-family: verdana;
+    color: black;
+}
+.yerIcon{
+	display: inline-block;
+	color: black;
+	font-size: 25px;
+}
+.yerText{
+	padding-left: 10px;
+	width: 200px;
+	display: inline-block;
+	text-align: left;
+}
+.ilksetirim{
+	padding-top: 22px;
+}
+hr{
+	color: #abacae;
+}
+.copy p{
+	text-align: center;
+	color: #abacae;
+}
+.copy a{
+	text-decoration: none;
+}
